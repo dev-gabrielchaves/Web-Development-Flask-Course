@@ -1,0 +1,24 @@
+h1, p {
+    color: blue;
+}
+
+.red {
+    color: red;
+}
+
+#purple {
+    color: purple;
+}
+
+/*
+Above we can see that there is an order of matter...
+element -> class -> id
+*/
+
+* {
+    font-size: 10px;
+}
+
+/*
+The element above is used when you want to add some style to every element on the page
+*/

@@ -1,0 +1,8 @@
+/* Defining simple style to h1 and p */
+h1 {
+    font-size: 24px;
+    color: darkblue;
+}
+p {
+    color: red;
+}
